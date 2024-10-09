@@ -7,13 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   
-  <PropertyGroup>
+ <!--  <PropertyGroup>
     <OutputType>exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+ -->
+ 
   <PropertyGroup>
     <OutputType>exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
@@ -21,11 +22,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <PropertyGroup>
+  <!-- <PropertyGroup>
     <OutputType>exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
+  </PropertyGroup> -->
 
 </Project>
