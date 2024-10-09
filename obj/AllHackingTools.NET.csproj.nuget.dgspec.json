@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj",
+        "projectName": "AllHackingTools.NET",
+        "projectPath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj",
+        "packagesPath": "C:\\Users\\n0bdy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n0bdy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
