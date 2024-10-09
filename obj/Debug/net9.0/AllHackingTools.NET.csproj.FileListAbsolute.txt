@@ -1,0 +1,15 @@
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\bin\Debug\net9.0\AllHackingTools.NET.exe
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\bin\Debug\net9.0\AllHackingTools.NET.deps.json
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\bin\Debug\net9.0\AllHackingTools.NET.runtimeconfig.json
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\bin\Debug\net9.0\AllHackingTools.NET.dll
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\bin\Debug\net9.0\AllHackingTools.NET.pdb
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.AssemblyInfoInputs.cache
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.AssemblyInfo.cs
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.csproj.CoreCompileInputs.cache
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.sourcelink.json
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.dll
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\refint\AllHackingTools.NET.dll
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.pdb
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\AllHackingTools.NET.genruntimeconfig.cache
+C:\Users\n0bdy\Proyectos\GitHub\AllHackingTools.NET\obj\Debug\net9.0\ref\AllHackingTools.NET.dll
