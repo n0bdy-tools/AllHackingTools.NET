@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj": {}
+    "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj": {
+    "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj",
-        "projectName": "AllHackingTools.NET",
-        "projectPath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj",
+        "projectUniqueName": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\n0bdy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\obj\\",
+        "outputPath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\n0bdy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,22 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,23 +70,14 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.10, 8.0.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.10, 8.0.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.10, 8.0.10]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.10, 8.0.10]"
+              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[9.0.0-rc.2.24473.5, 9.0.0-rc.2.24473.5]"
             }
           ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

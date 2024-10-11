@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AllHackingTools.NET")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WebApplication1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9b6696e5da6a990b2cdd06d8aceed9d25b6e04b")]
-[assembly: System.Reflection.AssemblyProductAttribute("AllHackingTools.NET")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AllHackingTools.NET")]
+[assembly: System.Reflection.AssemblyProductAttribute("WebApplication1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WebApplication1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
