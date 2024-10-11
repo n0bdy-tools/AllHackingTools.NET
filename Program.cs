@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Coming son!");
+Console.WriteLine("Coming soon!");
+Console.ReadLine();
