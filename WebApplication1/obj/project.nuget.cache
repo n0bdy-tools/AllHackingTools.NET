@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dAa18f1vjRw=",
+  "dgSpecHash": "8MuAzAl34C4=",
   "success": true,
   "projectFilePath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.0-rc.2.24473.5\\microsoft.dotnet.ilcompiler.9.0.0-rc.2.24473.5.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0-rc.2.24473.5\\microsoft.net.illink.tasks.9.0.0-rc.2.24473.5.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.0-rc.2.24473.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.0-rc.2.24473.5.nupkg.sha512"
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.10\\microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.10\\microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.10\\microsoft.windowsdesktop.app.ref.8.0.10.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.10\\microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

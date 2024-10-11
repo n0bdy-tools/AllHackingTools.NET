@@ -1,20 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAqwB111tGg=",
+  "dgSpecHash": "ZUV0k9wzU9w=",
   "success": true,
   "projectFilePath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\AllHackingTools.NET.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.10\\microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.10\\microsoft.windowsdesktop.app.ref.8.0.10.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.10\\microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
-  ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\n0bdy\\Proyectos\\GitHub\\AllHackingTools.NET\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "expectedPackageFiles": [],
+  "logs": []
 }
