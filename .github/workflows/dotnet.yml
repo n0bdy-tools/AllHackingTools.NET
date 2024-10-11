@@ -27,11 +27,6 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
 
-build:
-
-    runs-on: ubuntu-latest
-
-    steps:
     - uses: actions/checkout@v4
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
