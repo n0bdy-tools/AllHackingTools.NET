@@ -1,5 +1,23 @@
 {
     "yaml.schemas": {
         "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/n0bdy/Proyectos/GitHub/AllHackingTools.NET/.github/workflows/dotnet.yml"
-    }
+    },
+    "eslint.debug": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.probe": [
+        "astro",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "mdx",
+        "vue",
+        "markdown",
+        "json",
+        "jsonc",
+        ".NET"
+    ],
+    "github.experimental.multipleAccounts": true
 }

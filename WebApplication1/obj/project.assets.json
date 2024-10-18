@@ -174,22 +174,6 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.10, 8.0.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.10, 8.0.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.10, 8.0.10]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.10, 8.0.10]"
-          },
-          {
             "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
             "version": "[8.0.10, 8.0.10]"
           }

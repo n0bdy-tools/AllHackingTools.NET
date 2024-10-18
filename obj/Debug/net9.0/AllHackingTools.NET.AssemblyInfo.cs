@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllHackingTools.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d751148c623b23aaf75629bbf42ca1470250c83d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c73ccaba09a489815b53148ac7b0359728bae16")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllHackingTools.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllHackingTools.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
